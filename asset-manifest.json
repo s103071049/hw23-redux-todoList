@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hw23-redux-todoList/static/js/main.96565bdc.chunk.js",
+    "main.js.map": "/hw23-redux-todoList/static/js/main.96565bdc.chunk.js.map",
+    "runtime-main.js": "/hw23-redux-todoList/static/js/runtime-main.c9b6b0c1.js",
+    "runtime-main.js.map": "/hw23-redux-todoList/static/js/runtime-main.c9b6b0c1.js.map",
+    "static/js/2.49f5ca51.chunk.js": "/hw23-redux-todoList/static/js/2.49f5ca51.chunk.js",
+    "static/js/2.49f5ca51.chunk.js.map": "/hw23-redux-todoList/static/js/2.49f5ca51.chunk.js.map",
+    "index.html": "/hw23-redux-todoList/index.html",
+    "static/js/2.49f5ca51.chunk.js.LICENSE.txt": "/hw23-redux-todoList/static/js/2.49f5ca51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9b6b0c1.js",
+    "static/js/2.49f5ca51.chunk.js",
+    "static/js/main.96565bdc.chunk.js"
+  ]
+}
